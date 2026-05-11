@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm [Ayaelitxa] 👋
 
-<!--
-**Bunni298/Bunni298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18-year-old full-stack engineer based in the Dominican Republic 🇩🇴, originally from the US 🇺🇸. I hold a secondary diploma specialized in **IT & Mathematics** and a **Codecademy Full-Stack Engineer Certification**. Open to relocation for work permit opportunities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+`JavaScript` `React` `Node.js` `Express.js` `SQL` `HTML/CSS` `Python` `Git` `REST APIs` `TDD`
+
+---
+
+## 🌍 Languages
+
+`English — Fluent` `Spanish — Fluent` `Swedish — A2`
+
+---
+
+## 📫 Contact
+
+[ayaelitxachristopher298@gmail.com] · [www.linkedin.com/in/ayaelitxa-christopher-519b06287}
